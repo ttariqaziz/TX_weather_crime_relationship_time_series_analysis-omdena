@@ -22,6 +22,7 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 - Explore Weather Effects (hot and humid days, heavy rain) on Specific Types of Crime (theft, assault, domestic violence)
 
 ## Project Plan
+<img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/project_plan_houston_omdena.jpg">
 
 
 
