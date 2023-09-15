@@ -1,4 +1,7 @@
 # weather_crime_relationship_houston_omdena
+## Project Link: 
+https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/project_plan_houston_omdena.jpg
+
 ## Background
 Climate change is a pressing concern for metropolitan areas like Houston, TX, with its rapid population growth posing social, safety, and economic challenges. The proposed project investigates the relationship between weather and crime statistics in Houston. As global temperatures rise, weather events such as heatwaves, hurricanes, and heavy rainfall may impact crime rates.
 
