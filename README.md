@@ -29,5 +29,4 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 
 
 
-
 Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
