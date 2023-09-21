@@ -28,28 +28,8 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 
 ## Project Structure
 
-├── LICENSE
-├── README.md          <- The top-level README for developers/collaborators using this project.
-├── original           <- Original Source Code of the challenge hosted by Omdena. Can be used as a reference code for the current project goal.
-│ 
-│
-├── reports            <- Folder containing the final reports/results of this project
-│   └── README.md      <- Details about final reports and analysis
-│ 
-│  
-├── src                <- Source code folder for this project
-    │
-    ├── data           <- Datasets used and collected for this project
-    │
-    ├── docs           <- Folder for Task documentation, Meeting Presentations, and task Workflow Documents and Diagrams.
-    │
-    ├── references     <- Data dictionaries, manuals, and all other explanatory references used
-    │
-    ├── tasks          <- Master folder for all individual task folders
-    │
-    ├── visualizations <- Code and Visualization dashboards generated for the project
-    │
-    └── results        <- Folder to store Final analysis and modeling results and code.
+
+## Folder Overview
 
 
 Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
