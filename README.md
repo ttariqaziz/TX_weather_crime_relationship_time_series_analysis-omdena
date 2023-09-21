@@ -27,6 +27,7 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 <img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/project_plan_houston_omdena.jpg">
 
 ## Project Structure
+
 ├── LICENSE
 ├── README.md          <- The top-level README for developers/collaborators using this project.
 ├── original           <- Original Source Code of the challenge hosted by Omdena. Can be used as a reference code for the current project goal.
