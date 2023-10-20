@@ -32,5 +32,7 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 ## Folder Overview
 
 ## Gradio App
+<img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment1.jpg">
+<img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment.jpg">
 
 Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
