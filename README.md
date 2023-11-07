@@ -73,9 +73,8 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 ```
 
 ## Folder Overview
-- reports - Folder to store all Final Reports of this project.
+- reports - Folder to store all Final Reports of this project and Meeting Presentations.
 - Data - Folder to Store all the data collected and used for this project.
-- Docs - Folder for Task documentations, Meeting Presentations and task Workflow Documents and Diagrams.
 - References - Folder to store any referneced code/research papers and other useful documents used for this project.
 - Visualization - Folder to store dashboards, analysis and visualization reports.
 ## Gradio App
