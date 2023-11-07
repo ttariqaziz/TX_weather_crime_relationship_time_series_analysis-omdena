@@ -81,4 +81,31 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 <img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment1.jpg">
 <img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment.jpg">
 
-Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
+Original Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
+
+## Project Setup
+
+<Add the project setup steps here. You can add more or less than the suggested ones.>
+
+Open the Command line or Terminal
+
+- Clone the repository
+
+```
+git clone https://dagshub.com/XuanQin/WeatherCrimeHouston.git
+
+```
+
+- Move to the folder
+
+```
+cd <folder name>
+
+```
+
+- To open with jupyter notebook (or maually open using jupyter notebook app)
+
+```
+jupyter notebook
+
+```
