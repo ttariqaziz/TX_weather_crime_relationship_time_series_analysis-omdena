@@ -92,7 +92,7 @@ Open the Command line or Terminal
 - Clone the repository
 
 ```
-git clone https://dagshub.com/XuanQin/WeatherCrimeHouston.git
+git clone https://github.com/ttariqaziz/weather_crime_relationship_houston_time_series_analysis_omdena
 
 ```
 
