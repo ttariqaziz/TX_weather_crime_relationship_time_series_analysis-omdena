@@ -2,6 +2,8 @@
 
 ## Project Link: 
 https://omdena.com/chapter-challenges/discover-the-relationship-between-crime-statistics-and-weather-in-the-houston-area/
+## Original Dagshub repository link: 
+https://dagshub.com/ttariqaziz/WeatherCrimeHouston
 ## Background
 Climate change is a pressing concern for metropolitan areas like Houston, TX, with its rapid population growth posing social, safety, and economic challenges. The proposed project investigates the relationship between weather and crime statistics in Houston. As global temperatures rise, weather events such as heatwaves, hurricanes, and heavy rainfall may impact crime rates.
 
@@ -29,7 +31,7 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 
 ## Project Structure
 ```
-📦weather_crime_relationship_houston_time_series_analysis_omdena 
+weather_crime_relationship_houston_time_series_analysis_omdena 
 ├─ .gitignore
 ├─ Data
 │  ├─ Cleaned
@@ -80,8 +82,6 @@ Understanding the weather’s influence on criminal behaviors will empower law e
 ## Gradio App
 <img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment1.jpg">
 <img src = "https://github.com/ttariqaziz/weather_crime_relationship_houston_omdena/blob/main/images/App%20Deployment.jpg">
-
-Original Dagshub repository link: https://dagshub.com/ttariqaziz/WeatherCrimeHouston
 
 ## Project Setup
 
