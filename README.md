@@ -62,6 +62,7 @@ weather_crime_relationship_houston_time_series_analysis_omdena
 ├─ Notebooks
 │  ├─ 1_1_Weather_data.ipynb
 │  ├─ 1_2_clean_merge_crime_houston_datasets.ipynb
+│  ├─ Time_Series_Analysis_Univariate_Multimodel.ipynb
 │  ├─ merge_crime_houston_datasets.ipynb
 │  ├─ task_1_data_collection_and_preparation.ipynb
 │  ├─ task_3_model_developement_time_series_analysis.ipynb
