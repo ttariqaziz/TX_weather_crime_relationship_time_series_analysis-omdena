@@ -1,4 +1,4 @@
-# Omdena - Discovering the Relationship Between Crime Statistics and Weather in the Houston Area
+# Omdena - Discovering the Relationship Between Crime Statistics and Weather in the Houston Area using Law Enforcement data
 
 ## Project Link: 
 https://omdena.com/chapter-challenges/discover-the-relationship-between-crime-statistics-and-weather-in-the-houston-area/
